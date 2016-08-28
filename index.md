@@ -13,7 +13,7 @@ knit        : slidify::knit2slides
 
 ## Description of Application
 
-- This application allows users to view statistics for Major League Baseball (MLB) teams over the period 1969 - 2000
+- This application allows users to view statistics for Major League Baseball (MLB) teams over the period 1969 - 2000.
 
 - Data are viewable by MLB franchises that were in existence during that period (for reference, see [MLB Franchise History](https://en.wikipedia.org/wiki/Timeline_of_Major_League_Baseball)).
 
